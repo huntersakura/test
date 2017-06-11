@@ -1,13 +1,13 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Test</title>
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
 
 <body>
- 	
- 	<?php
+    <?php
 		$x = "<b>Huntersakura55</b>";
  		echo $x;
 		$a = 123; 
@@ -37,10 +37,11 @@
     }
     echo "<br><br><br>";
     echo "finish";
-    echo "<br>$name$surname";
-    echo "tong";
+    echo "<br>$name$surname<br>";
+    echo "tong---tong";
     
     
  	?>
 </body>
+
 </html>
